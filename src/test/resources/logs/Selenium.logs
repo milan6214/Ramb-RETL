@@ -1,0 +1,32 @@
+00:07:18,010 DEBUG devpinoyLogger:62 - -------------Launching Chrome---------------
+00:07:20,286  INFO devpinoyLogger:74 - ---------URL entered-----------
+00:07:20,644  INFO devpinoyLogger:24 - Start running test caseclass java.lang.String
+00:07:21,025  INFO devpinoyLogger:30 - Verified HomePage----------
+00:07:21,026  INFO devpinoyLogger:32 - ---------------Test completed---------------
+00:07:21,132 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+00:07:21,134 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+00:07:21,140 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+00:07:21,145 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+00:07:21,146 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/DELL/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+00:07:25,290 DEBUG devpinoyLogger:62 - -------------Launching Chrome---------------
+00:07:31,702  INFO devpinoyLogger:74 - ---------URL entered-----------
+00:07:32,982 DEBUG devpinoyLogger:86 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (f0de3f6ca3f3fdca5510b9d331a2b340)] -> xpath: //a[contains(text(),'Careers')]]
+00:07:46,242 DEBUG devpinoyLogger:86 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //h6[contains(text(),'QA Automation Test Engineer')]'
+00:07:56,352 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+00:07:56,353 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+00:07:56,357 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+00:07:56,359 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+00:07:56,359 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/DELL/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+00:07:59,642 DEBUG devpinoyLogger:62 - -------------Launching Chrome---------------
+00:08:05,104  INFO devpinoyLogger:74 - ---------URL entered-----------
+00:08:05,536 DEBUG devpinoyLogger:33 - Inside QAAutomationPageTest
+00:08:06,946 DEBUG devpinoyLogger:86 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (215825085e3b1d10ad38c275e5dcebc3)] -> xpath: //a[contains(text(),'Careers')]]
+00:08:18,266 DEBUG devpinoyLogger:86 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: //h6[contains(text(),'QA Automation Test Engineer')]'
+00:08:28,405  INFO devpinoyLogger:43 - ---------Validation succesfull------------
+00:08:28,406 DEBUG devpinoyLogger:45 - started for fillup-----------
+00:08:29,030 DEBUG devpinoyLogger:86 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (215825085e3b1d10ad38c275e5dcebc3)] -> css selector: #job-name]
+00:08:31,313 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+00:08:31,314 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+00:08:31,315 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+00:08:31,315 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+00:08:31,315 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/DELL/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
