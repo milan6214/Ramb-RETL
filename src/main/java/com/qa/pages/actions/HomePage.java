@@ -1,6 +1,8 @@
 package com.qa.pages.actions;
 
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.pagefactory.AjaxElementLocatorFactory;
 
 import com.qa.pages.locators.HomePageLocators;
 
@@ -12,6 +14,17 @@ public class HomePage {
 	
 	public HomePage() {
 		
-		this.
+		this.homepage=new HomePageLocators();
+		
+		AjaxElementLocatorFactory factory=new AjaxElementLocatorFactory(driver, 10);
+		
+		PageFactory.initElements(factory, this.homepage);
+	}
+	
+	
+	public String verifyHomePageLogo()
+	{
+		
+		return homepage.logoTab.getText();
 	}
 }
