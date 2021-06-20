@@ -27,4 +27,9 @@ public class HomePage {
 		
 		return homepage.logoTab.getText();
 	}
+	
+	public String verifyLogin() {
+		
+		return homepage.loginBtn.getText();
+	}
 }
