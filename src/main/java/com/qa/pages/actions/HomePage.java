@@ -1,14 +1,14 @@
 package com.qa.pages.actions;
 
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.pagefactory.AjaxElementLocatorFactory;
 
+import com.qa.base.Page;
 import com.qa.pages.locators.HomePageLocators;
 
-public class HomePage {
+public class HomePage extends Page {
 
-	public WebDriver driver;
+	
 	public HomePageLocators homepage;
 	
 	

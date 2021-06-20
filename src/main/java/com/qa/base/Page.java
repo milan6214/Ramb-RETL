@@ -12,10 +12,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.auto.base.Constants;
-import com.auto.pages.actions.TopNavigation;
-import com.auto.utilities.ExcelReader;
-import com.auto.utilities.ExtentManager;
+import com.qa.pages.actions.TopNavigation;
+import com.qa.utilities.ExcelReader;
+import com.qa.utilities.ExtentManager;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
