@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Stcak My Biz">
+<suite name="Ramb-RETL Project">
 	<listeners>
 		<listener class-name="com.auto.listeners.CustomListeners" />
 		<listener class-name="org.uncommons.reportng.HTMLReporter" />
@@ -8,26 +8,12 @@
 
 	</listeners>
 
-
-
-
-	<test name="Home Page Test">
+	<test name="HomePageTest">
 		<classes>
-			<class name="com.auto.testcases.HomePageTest" />
+			<class name="com.qa.testcases.HomePageTest" />
 		</classes>
 	</test> <!-- Test -->
 
-	<test name="Carrer Page Test">
-		<classes>
-			<class name="com.auto.testcases.CarrerPageTest" />
-		</classes>
-	</test> <!-- Test -->
-
-
-	<test name="QA Automation Page Test">
-		<classes>
-			<class name="com.auto.testcases.QAAutomationPageTest" />
-		</classes>
-	</test> <!-- Test -->
+	
 
 </suite> <!-- Suite -->
